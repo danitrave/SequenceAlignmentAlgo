@@ -1,5 +1,5 @@
 # SequenceAlignmentAlgo
-This folder contains a possible implementation of the Needleman &amp; Wunsch and Smith &amp; Waterman algorithms
+This folder contains a possible implementation of the Needleman and Wunsch and Smith and Waterman algorithms. I develpoped them when I was at the university during the second year for a course called "bioinformatics"
 The following folder contains the implementation of two algorithms to perform sequence alignment of two sequences:
 -the Needleman & Wunsch algorithm for global alignment
 -the Smith & Waterman algorithm for local alignment
